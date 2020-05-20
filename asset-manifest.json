@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-testing/static/css/main.e7c84982.chunk.css",
+    "main.js": "/react-testing/static/js/main.78aa63a9.chunk.js",
+    "main.js.map": "/react-testing/static/js/main.78aa63a9.chunk.js.map",
+    "runtime-main.js": "/react-testing/static/js/runtime-main.2f3a839d.js",
+    "runtime-main.js.map": "/react-testing/static/js/runtime-main.2f3a839d.js.map",
+    "static/js/2.415495fd.chunk.js": "/react-testing/static/js/2.415495fd.chunk.js",
+    "static/js/2.415495fd.chunk.js.map": "/react-testing/static/js/2.415495fd.chunk.js.map",
+    "index.html": "/react-testing/index.html",
+    "precache-manifest.acb0e84da5e30be48a5e423581d5db65.js": "/react-testing/precache-manifest.acb0e84da5e30be48a5e423581d5db65.js",
+    "service-worker.js": "/react-testing/service-worker.js",
+    "static/css/main.e7c84982.chunk.css.map": "/react-testing/static/css/main.e7c84982.chunk.css.map",
+    "static/js/2.415495fd.chunk.js.LICENSE.txt": "/react-testing/static/js/2.415495fd.chunk.js.LICENSE.txt",
+    "static/js/main.78aa63a9.chunk.js.LICENSE.txt": "/react-testing/static/js/main.78aa63a9.chunk.js.LICENSE.txt",
+    "static/media/anime3.png": "/react-testing/static/media/anime3.bd6820f1.png",
+    "static/media/emilyz.jpg": "/react-testing/static/media/emilyz.9fcf69e5.jpg",
+    "static/media/nucleo-icons.css": "/react-testing/static/media/nucleo.f0b489a5.woff",
+    "static/media/react-logo.png": "/react-testing/static/media/react-logo.eb6be414.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f3a839d.js",
+    "static/js/2.415495fd.chunk.js",
+    "static/css/main.e7c84982.chunk.css",
+    "static/js/main.78aa63a9.chunk.js"
+  ]
+}
